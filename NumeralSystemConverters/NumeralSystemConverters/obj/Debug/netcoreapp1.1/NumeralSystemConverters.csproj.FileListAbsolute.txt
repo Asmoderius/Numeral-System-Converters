@@ -1,0 +1,7 @@
+C:\Users\Asmo\Desktop\NumeralSystemConverters\NumeralSystemConverters\bin\Debug\netcoreapp1.1\NumeralSystemConverters.deps.json
+C:\Users\Asmo\Desktop\NumeralSystemConverters\NumeralSystemConverters\bin\Debug\netcoreapp1.1\NumeralSystemConverters.dll
+C:\Users\Asmo\Desktop\NumeralSystemConverters\NumeralSystemConverters\bin\Debug\netcoreapp1.1\NumeralSystemConverters.pdb
+C:\Users\Asmo\Desktop\NumeralSystemConverters\NumeralSystemConverters\obj\Debug\netcoreapp1.1\NumeralSystemConverters.AssemblyInfo.cs
+C:\Users\Asmo\Desktop\NumeralSystemConverters\NumeralSystemConverters\obj\Debug\netcoreapp1.1\NumeralSystemConverters.dll
+C:\Users\Asmo\Desktop\NumeralSystemConverters\NumeralSystemConverters\obj\Debug\netcoreapp1.1\NumeralSystemConverters.pdb
+C:\Users\Asmo\Desktop\NumeralSystemConverters\NumeralSystemConverters\obj\Debug\netcoreapp1.1\NumeralSystemConverters.csprojResolveAssemblyReference.cache
